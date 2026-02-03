@@ -80,7 +80,3 @@ grokking_experiments/
   year={2026}
 }
 ```
-
-## Contact
-
-Correspondence: daviddudas@hotmail.com
