@@ -75,7 +75,7 @@ grokking_experiments/
 
 ```bibtex
 @article{dudas2026separability,
-  title={The Separability Law of Transfer in Grokking},
+  title={The Separability Principle of Transfer in Grokking},
   author={Dudas, David R.},
   year={2026},
   doi={https://doi.org/10.5281/zenodo.18464528}
