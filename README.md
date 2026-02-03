@@ -77,6 +77,7 @@ grokking_experiments/
 @article{dudas2026separability,
   title={The Separability Law of Transfer in Grokking},
   author={Dudas, David R.},
-  year={2026}
+  year={2026},
+  doi={https://doi.org/10.5281/zenodo.18464528}
 }
 ```
